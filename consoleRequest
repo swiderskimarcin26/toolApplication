@@ -1,0 +1,6 @@
+Export CSV file to MySql database
+
+php index.php InsertCsvController CSVpath
+example
+php index.php InsertCsvController C:\xampp\htdocs\perm\csv.csv
+
